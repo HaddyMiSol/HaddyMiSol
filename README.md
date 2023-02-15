@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there 👋 
+
+I am a skilled Data Analyst with experience in data extraction and mining, data cleaning, data analysis and data visualization using different approaches and tools. 
+
+- I am comfortable with working with data from different data source and making inferential deductions from analysis.
+
+- Well-versed in data reporting and designing dashboard for insightful decison making
+
+- Solution-oriented and adept detailedness
+
+- A team player with a vision of making the world a better place through the potency of data.
 
 <!--
 **HaddyMiSol/HaddyMiSol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
