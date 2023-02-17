@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-I am a skilled Data Analyst with experience in data extraction and mining, data cleaning, data analysis and data visualization using different approaches and tools. 
+I am a skilled Data Analyst with experience in data extraction, mining, cleaning, analytics and data visualization using different approaches and tools. 
 
 - I am comfortable with working with data from different data source and making inferential deductions from analysis.
 
